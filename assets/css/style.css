@@ -1,0 +1,166 @@
+* {
+  list-style: none;
+  text-decoration: none;
+}
+
+.mobile_menu {
+  display: none;
+}
+a {
+  list-style: none;
+  text-decoration: none;
+}
+
+/* header section starts */
+
+header {
+  padding: 1rem;
+}
+.menu_001 {
+}
+.menu_content {
+  padding-bottom: 1rem;
+  border-bottom: solid 1px #464c5282;
+}
+.menu_001 ul {
+}
+.menu_001 ul li {
+  margin-right: 0.5rem;
+}
+.menu_002 ul li a:hover {
+  color: #2dcc70;
+}
+.custom_menu {
+  position: relative;
+}
+.hand_hover {
+  position: absolute;
+  bottom: -3px;
+  right: 3px;
+}
+.out {
+  padding: 0;
+}
+.menu_002 {
+  text-transform: uppercase;
+  padding-top: 1rem;
+}
+.menu_002 ul {
+}
+.menu_002 ul li {
+  margin-right: 1.3rem;
+}
+.menu_002 ul li a {
+  color: #464c52;
+  font-weight: 600;
+}
+
+/* header section end */
+
+/* portfolio section starts */
+
+.portfolio {
+}
+.banner {
+  background-image: url(../img/bannerbg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.banner img {
+  transform: translateY(65px);
+  max-width: 40rem;
+}
+.details {
+  padding-top: 8rem;
+  max-width: 718px;
+  margin: auto;
+  text-transform: uppercase;
+  line-height: 26px;
+  font-weight: 500;
+  color: #464c529e;
+}
+.details p {
+}
+.custom_button {
+}
+.custom_button a {
+  background-color: #2dcc70;
+  padding: 0.6rem 1.4rem;
+  color: white;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+/* portfolio section end */
+
+/* video section starts */
+
+.video {
+  padding: 3rem 0;
+  margin-top: 3rem;
+  background-color: #464c5212;
+}
+.video img {
+  max-width: 23rem;
+}
+.video_content {
+}
+.video_content h3 {
+  padding-bottom: 1rem;
+}
+.video_content p {
+  font-size: 0.9rem;
+  color: #464c52;
+  font-weight: 500;
+}
+.video_content span {
+  display: block;
+  margin-top: 2rem;
+}
+
+/* video section end */
+
+/* link section starts */
+
+.link {
+  padding: 3rem 0;
+  background-color: #464c52;
+}
+.link h2 {
+  color: white;
+  margin: 0;
+  font-size: 1.8rem;
+}
+.link a {
+  font-weight: 500;
+}
+
+/* link section end */
+
+/* footer section starts */
+
+footer {
+  padding: 1rem 0;
+  background: #464c521a;
+}
+footer h4 {
+  font-size: 0.9rem;
+  color: #464c52a1;
+}
+.footer_link {
+}
+.footer_link ul {
+  justify-content: end;
+}
+.footer_link ul li {
+  margin-right: 4px;
+}
+.footer_link ul li a {
+  color: #464c52a1;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+/* footer section end */
